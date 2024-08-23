@@ -1,5 +1,5 @@
 from textnode import TextNode, text_node_to_html_node
-from htmlnode import HTMLNode, ParentNode, LeafNode
+from htmlnode import ParentNode
 import re
 import textwrap
 

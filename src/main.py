@@ -1,4 +1,4 @@
-from helpers import copy_contents, generate_page, generate_pages_recursive
+from helpers import copy_contents, generate_pages_recursive
 
     
 def main():
