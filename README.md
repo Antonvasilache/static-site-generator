@@ -15,8 +15,8 @@ This application converts markdown content into a static website. It processes m
 
 ## Installation
 
-1. Clone this repository:
-`git clone https://github.com/Antonvasilache/static-site-generator`
+1. Clone this repository:  
+`git clone https://github.com/Antonvasilache/static-site-generator`  
 `cd static-site-generator`
 
 2. No additional installation steps are required as the application uses Python's standard library.
@@ -25,7 +25,7 @@ This application converts markdown content into a static website. It processes m
 
 1. Place your markdown files in the `/content` directory. The structure of this directory will be reflected in the generated website.
 
-2. Run the main script:
+2. Run the main script:  
 `./main.sh`
 
 3. Open your web browser and navigate to `http://localhost:8888` to view your generated website.
